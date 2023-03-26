@@ -1,5 +1,5 @@
 Config = {
-    Default = 'none', -- The default entity set for when your server restarts.
+    Default = 'mma', -- The default entity set for when your server restarts.
     Sets = {
         basketball = {'mba_tribune', 'mba_tarps', 'mba_basketball', 'mba_jumbotron'},
         boxing = {'mba_tribune', 'mba_tarps', 'mba_fighting', 'mba_boxing', 'mba_jumbotron'},
